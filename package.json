@@ -1,0 +1,23 @@
+{
+  "name": "chess-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "count-possible-atacks.js",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmvini/rainha_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vmvini/rainha_test/issues"
+  },
+  "homepage": "https://github.com/vmvini/rainha_test#readme"
+}
